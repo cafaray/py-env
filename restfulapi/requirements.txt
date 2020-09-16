@@ -1,0 +1,7 @@
+Werkzeug==0.16.0
+Flask=
+Flask-Restplus=
+Marshallow
+Flask-SQLAlchemy
+mysql-connector-python
+pyjwt
